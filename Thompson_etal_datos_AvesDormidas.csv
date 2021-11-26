@@ -1,0 +1,71 @@
+Fecha,Region,Sitio,lat_centroide,long_centroide,Etapa_de_bosque,habitat,Nombre_cientifico,edad,sexo
+9-Dec-14,Osa,OOG1,8.406048,83.332288,BM,Ripario,Lepidothrix coronata,adulto,hembra
+9-Nov-16,Osa,OOG1,8.406048,83.332288,BM,Ripario,Lepidothrix coronata,adulto,macho
+31-Mar-16,Osa,OOG3,8.616711753,-83.4714313,BM,Ripario,Chloroceryle aenea,adulto,hembra
+5-Nov-16,Osa,OOG3,8.616711753,-83.4714313,BM,Ripario,Mionectes oleangineus,adulto,
+11-Ago-15,Osa,OOG3,8.616711753,-83.4714313,BM,Ripario,Mionectes oleangineus,adulto,
+16-Dec-15,Osa,OPOT1,8.406431,-83.348611,P,Ripario,Eucometis penicillata,adulto,
+2-Mar-15,Osa,OPOT1,8.406431,-83.348611,P,Ripario,unk bird con nido,adulto,hembra
+7-Mar-15,Osa,OPOT2,8.416039199,-83.28316861,P,Ripario,Myiodynastes maculatus,adulto,
+1-enero-16,Osa,OPOT2,8.416039199,-83.28316861,P,Ripario,Tigrisoma mexicanum,juvenile,
+10-Nov-16,Osa,OPOT3,8.403725104,-83.35079587,P,Ripario,Eucometis penicillata,adulto,
+20-Sep-16,Osa,OS1,8.404271118,-83.33887124,S3,Ripario,Arremon aurantiirostris,adulto,
+20-Sep-16,Osa,OS1,8.404271118,-83.33887124,S3,Ripario,Arremon aurantiirostris,adulto,
+8-Apr-16,Osa,OS1,8.404271118,-83.33887124,S3,Ripario,Chloroceryle aenea,adulto,
+4-Apr-16,Osa,OS1,8.404271118,-83.33887124,S3,Ripario,Parkesia noveboracensis,adulto,
+18-Dec-14,Osa,OS2,8.619242571,-83.474378,S2,Ripario,Chloroceryle aenea,adulto,hembra
+5-Mar-15,Osa,OS2,8.619242571,-83.474378,S2,Ripario,Chloroceryle aenea,adulto,hembra
+,Osa,OS2,8.619242571,-83.474378,S2,Ripario,Chloroceryle aenea,adulto,hembra
+30-Mar-16,Osa,OS2,8.619242571,-83.474378,S2,Ripario,Parkesia noveboracensis,adulto,
+7-Apr-16,Osa,OS4,8.456360456,-83.35779386,S2,Ripario,Trogon rufus,adulto,hembra
+5-Apr-16,Osa,OS6,8.417394228,-83.35387077,S3,Ripario,Thamnophilus bridgesi,adulto,
+5-Apr-16,Osa,OS6,8.417394228,-83.35387077,S3,Ripario,Thamnophilus bridgesi,adulto,hembra
+10-Mar-16,Sarapiqui,P1,10.43137242,-84.03048544,S3,Ripario,Mionectes oleangineus,adulto,
+10-Mar-16,Sarapiqui,P1,10.43137242,-84.03048544,S3,Ripario,Mionectes oleangineus,adulto,
+31-Oct-16,Sarapiqui,P1,10.43137242,-84.03048544,S3,Ripario,Mionectes oleangineus,adulto,
+11-Oct-14,Sarapiqui,P1,10.43137242,-84.03048544,S3,Ripario,Mionectes oleangineus,adulto,
+24-Jan-15,Sarapiqui,P1,10.43137242,-84.03048544,S3,Ripario,Mionectes oleangineus,adulto,
+2-Jul-15,Sarapiqui,P1,10.43137242,-84.03048544,S3,Ripario,Phaethornis longirostris,adulto,
+31-Oct-16,Sarapiqui,P1,10.43137242,-84.03048544,S3,Ripario,unk bird,,
+7-Jun-17,Sarapiqui,P1,10.43137242,-84.03048544,S3,Ripario,unk bird (nido),,
+24-Jan-15,Sarapiqui,P1 ,10.43137242,-84.03048544,S3,Ripario,Parkesia motacilla,adulto,
+30-Jan-15,Sarapiqui,P10,10.4320382,-84.02018011,S2,Ripario,Hylophylax naevioides,subadulto,macho
+2-Dec-15,Sarapiqui,P10,10.4320382,-84.02018011,S2,Ripario,Manacus candei,adulto,hembra
+2-Dec-15,Sarapiqui,P10,10.4320382,-84.02018011,S2,Ripario,Mionectes oleangineus,adulto,
+4-Feb-15,Sarapiqui,P11,10.37893515,-84.13360387,S1,Ripario,Poliocrania exsul,adulto,
+4-Feb-15,Sarapiqui,P11,10.37893515,-84.13360387,S1,Ripario,unk bird (nido),,
+9-Jun-16,Sarapiqui,P11,10.37893515,-84.13360387,S1,Ripario,unk bird con nido,,
+19-Jun-15,Sarapiqui,P13,10.36724902,-84.10878405,S1,Ripario,Manacus candei,adulto,hembra
+24-Apr-16,Sarapiqui,P13,10.36724902,-84.10878405,S1,Ripario,Manacus candei,adulto,hembra
+2-Feb-17,Sarapiqui,P13,10.36724902,-84.10878405,S1,Ripario,Manacus candei,adulto,hembra
+25-Jun-17,Sarapiqui,P13,10.36724902,-84.10878405,S1,Ripario,Manacus candei,adulto,macho
+28-Oct-15,Sarapiqui,P13,10.36724902,-84.10878405,S1,Ripario,Mionectes oleangineus,adulto,
+24-Apr-16,Sarapiqui,P13,10.36724902,-84.10878405,S1,Ripario,Mionectes oleangineus,adulto,
+2-Feb-17,Sarapiqui,P13,10.36724902,-84.10878405,S1,Ripario,Mionectes oleangineus,adulto,
+28-Oct-15,Sarapiqui,P13,10.36724902,-84.10878405,S1,Ripario,unk bird,,
+28-Oct-15,Sarapiqui,P13,10.36724902,-84.10878405,S1,Ripario,unk bird,,
+29-May-15,Sarapiqui,P14,10.43527725,-84.03604824,S2,Ripario,Manacus candei,adulto,hembra
+19-Oct-15,Sarapiqui,P14,10.43527725,-84.03604824,S2,Ripario,Mionectes oleangineus,adulto,
+22-Jan-16,Sarapiqui,P15,10.37061636,-84.13107972,S1,Ripario,Parkesia motacilla,adulto,
+22-Jan-16,Sarapiqui,P15,10.37061636,-84.13107972,S1,Ripario,Poliocrania exsul,adulto,hembra
+27-Oct-16,Sarapiqui,P5,10.42366065,-84.03978776,BM,Ripario,Mionectes oleangineus,adulto,
+27-Jan-15,Sarapiqui,P5,10.42366065,-84.03978776,BM,Ripario,Mionectes oleangineus,adulto,
+26-Oct-14,Sarapiqui,P5,10.42366065,-84.03978776,BM,Ripario,Poliocrania exsul,juvenil,hembra
+27-Oct-16,Sarapiqui,P5,10.42366065,-84.03978776,BM,Ripario,Tinamus major,adulto,
+16-Jul-16,Sarapiqui,P7,10.45668551,-84.06536814,S2,No Ripario,Manacus candei,adulto,hembra
+21-Jan-15,Sarapiqui,P7,10.45668551,-84.06536814,S2,Ripario,Manacus candei,,hembra
+19-Jul-16,Sarapiqui,P7,10.45668551,-84.06536814,S2,Ripario,Manacus candei,adulto,macho
+26-Jan-15,Sarapiqui,P8,10.44032287,-84.06708336,BM,Ripario,Manacus candei,adulto,hembra
+23-Oct-15,Sarapiqui,P8,10.44032287,-84.06708336,BM,No Ripario,Trogon rufus,adulto,hembra
+6-Jun-16,Sarapiqui,P8,10.44032287,-84.06708336,BM,No Ripario,Trogon rufus,adulto,hembra
+15-May-15,Sarapiqui,POT4,10.39048984,-84.12610933,P,Ripario,Manacus candei,adulto,hembra
+20-Oct-16,Sarapiqui,POT8,10.44404648,-84.06299723,P,Ripario,Arremon aurantiirostris,adulto,
+1-Aug-16,Sarapiqui,POT8,10.44404648,-84.06299723,P,Ripario,Chloroceryle aenea,adulto,
+1-Aug-16,Sarapiqui,POT8,10.44404648,-84.06299723,P,Ripario,Mionectes oleangineus,adulto,
+18-Oct-15,Sarapiqui,POT8,10.44404648,-84.06299723,P,Ripario,Myiothlypis fulvicauda,adulto,
+1-Aug-16,Sarapiqui,POT8,10.44404648,-84.06299723,P,Ripario,Myiozetetes similis,adulto,hembra
+1-Aug-16,Sarapiqui,POT8,10.44404648,-84.06299723,P,Ripario,Myiozetetes similis,adulto,macho
+20-Oct-16,Sarapiqui,POT8,10.44404648,-84.06299723,P,Ripario,Myiozetetes similis,adulto,
+18-Oct-15,Sarapiqui,POT8,10.44404648,-84.06299723,P,Ripario,Myiozetetes similis,adulto,
+22-ago-15,Osa,OS8,8.49798,-83.38518,S1,Ripario,unk bird con nido,adulto,
+28-Nov-16,Sarapiqui,TIR,10.40997787,-84.11511223,BM,Ripario,Mionectes oleangineus,adulto,
