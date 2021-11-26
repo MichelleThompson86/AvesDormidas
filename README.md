@@ -1,2 +1,2 @@
 # AvesDormidas
-Metadatos para Thompson et al. ¿Dónde duerman las aves? 
+Datos y metadatos para Thompson et al. ¿Dónde duerman las aves? 
